@@ -35,9 +35,9 @@ Strategy by AI is a structured context methodology derived from general and mili
 | **Three** | Enemy classification | 9 documents: hostile environment, foe matrix, hierarchy, profiles, scenarios |
 | **Four** | Situation assessment | 7 documents: scene configuration, actors, threats, trends, vectors, power poles |
 | **Five** | Strategy formulation | 4 documents: war definition, objectives, campaigns, integration |
-| **Six** | Execution governance | 10 documents: commitment, command, cohesion, tempo, friction, centre of gravity, culmination, fog/chaos, adaptation, termination + synthesis |
+| **Six** | Execution governance | 4 observable execution reconstruction documents (21′–24′) + 10 gap assessment documents: commitment, command, cohesion, tempo-friction, centre of gravity, culmination, fog/chaos, adaptation, termination + synthesis |
 
-**34 cross-referenced documents.** Each references preceding outputs. Each contains auditable evidence chains. Each is verifiable by human operators.
+**38 cross-referenced documents** (34 from Modules Two–Five + 4 observable execution reconstruction documents from Module Six). Each references preceding outputs. Each contains auditable evidence chains. Each is verifiable by human operators.
 
 → [Technical architecture](docs/ARCHITECTURE.md)
 
@@ -112,12 +112,12 @@ Strategy by AI provides the architectural foundation:
 ## Repository Contents
 
 ```
-strategybyai-methodology/
 ├── docs/
-│   ├── PROBLEM.md           # What's wrong with AI strategy today
-│   ├── ARCHITECTURE.md      # Technical architecture (7 perspectives)
-│   ├── DEMONSTRATION.md     # De Beers case — selected evidence
-│   └── INTEGRATION.md       # Four implementation pathways
+│   ├── PROBLEM.md                # What's wrong with AI strategy today
+│   ├── ARCHITECTURE.md           # Technical architecture (7 perspectives)
+│   ├── DEMONSTRATION.md          # De Beers case — selected evidence
+│   ├── INTEGRATION.md            # Four implementation pathways
+│   └── ANALYTICAL-DISCIPLINE.md  # v2.0 correction: three-voice framework
 ├── examples/                # Working demonstrations with De Beers excerpts
 ├── integration/             # Platform-specific deployment guides
 ├── world-models/            # Strategic world model concept and prototype
