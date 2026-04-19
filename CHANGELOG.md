@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased]
+
+### Added
+- Strategic world model divergence architecture (agency, concealment,
+  reflexivity) with methodology-specific handling mechanisms to main
+  README and world-models documentation
+- Five-level intrinsic variability and branching architecture specification
+- Improvability advantage: epistemic vs. aleatory uncertainty classification
+  and its consequence for predictive quality
+- Reference to first full-spectrum demonstration: *Iran at War, 2026:
+  Strategic Model in Existential Confrontation* (Amazon Kindle, April 2026)
+  
 ## [2.0.0] — 2026-04-18
 
 ### Analytical Discipline Correction — External Investigator Workflow
