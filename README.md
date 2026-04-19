@@ -104,6 +104,15 @@ Strategy by AI provides the architectural foundation:
 - **Action prediction** — Campaign architectures specify actions; execution assessment predicts consequences
 - **Counterfactual reasoning** — Scenario modelling and settlement conditions enable "what if" simulation
 - **Consistency enforcement** — Cross-referencing creates a constraint network preventing the hallucination and drift that plague standalone LLM reasoning
+- The strategic world model shares three architectural pillars with physical world models (components + rules + projection; better data + better output; axiomatic structure) but diverges at three dimensions that physical modelling never encounters:
+
+* **Agency** — Strategic actors choose or fail to choose; the methodology captures this through **crisis-point fork architecture** — binary decision points specifying both the deliberate path and the default path, with probability weights for each
+* **Concealment** — Strategic actors hide their properties; the methodology captures this through the **uncertainty map**, classifying each unknown as epistemic (resolvable through collection) or aleatory (inherent variability that no collection can eliminate)
+* **Reflexivity** — Strategic actors respond to being analysed; the methodology manages this through the **axiomatic separation** — the power struggle model is the fixed coordinate system, ensuring the analysis does not change its own reference frame
+
+The model produces **intrinsic variability** at five levels — confrontation dynamics, resolution sequences, shock contingencies, typological pathways, and execution forks — generating scenarios from its own branching architecture before external uncertainties are added. Because the majority of identified uncertainties in demonstrated cases are epistemic rather than aleatory, the model's predictive quality is **systematically improvable** through intelligence collection: each resolved uncertainty narrows the scenario bands at a measurable rate of return.
+
+**First full-spectrum demonstration:** [Iran at War, 2026: Strategic Model in Existential Confrontation](https://www.amazon.com/dp/B0GX2HWDR2) — a complete strategic world model of a nation-state at existential war, producing six weighted development scenarios with monitoring indicators. Amazon Kindle, April 2026.
 
 → [Strategy world models: concept, architecture, implementation path](world-models/)
 
